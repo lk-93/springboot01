@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("hot-fix");
         System.out.println("aaa");
         System.out.println(999);
+        System.out.println("567");
     }
 }
