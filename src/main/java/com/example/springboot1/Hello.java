@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("aaa");
         System.out.println(999);
         System.out.println("567");
+        System.out.println(890);
     }
 }
